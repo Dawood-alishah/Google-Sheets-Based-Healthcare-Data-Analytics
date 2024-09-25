@@ -22,7 +22,7 @@ The link below directs to the published Google Sheet containing the analyzed dat
 2. **Physician-Wise Shift Tracking**:
    - Another sheet in the Google document details shifts for each physician, broken down by month.
    - An **average-based calculation** identifies whether a physician is surpassing the **average shift threshold** or not.
-   - **Slicers and filters** enable micro-level insights, making it easy to view detailed data by month, hospital, or physician.
+   - **Slicers, Pivots and filters** enable micro-level insights, making it easy to view detailed data by month, hospital, or physician.
 
 ### **Skills Demonstrated:**
 - **Data Segregation & Organization**: Effective restructuring of data from raw screenshots into organized tables for easy analysis.
