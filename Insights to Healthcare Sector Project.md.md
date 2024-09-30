@@ -24,6 +24,11 @@ The link below directs to the published Google Sheet containing the analyzed dat
    - An **average-based calculation** identifies whether a physician is surpassing the **average shift threshold** or not.
    - **Slicers, Pivots and filters** enable micro-level insights, making it easy to view detailed data by month, hospital, or physician.
 
+### **Screenshots:**
+![image](https://github.com/user-attachments/assets/caf1e234-432a-4d74-a787-6b0149394ae5)
+![image](https://github.com/user-attachments/assets/8422e4d6-a018-4624-af28-a859318d7456)
+
+
 ### **Skills Demonstrated:**
 - **Data Segregation & Organization**: Effective restructuring of data from raw screenshots into organized tables for easy analysis.
 - **Data Visualization**: Graphs and visual tools to represent shifts across hospitals and physicians.
