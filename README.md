@@ -3,6 +3,10 @@
 
 This repository contains the insights derived from **physician shift data** across various hospitals, originally provided as screenshots. The data was analyzed, organized, and visualized using Google Sheets to deliver actionable insights on hospital performance and physician engagement. 
 
+### **Screenshots:**
+![image](https://github.com/user-attachments/assets/caf1e234-432a-4d74-a787-6b0149394ae5)
+![image](https://github.com/user-attachments/assets/8422e4d6-a018-4624-af28-a859318d7456)
+
 ### **Base Data Provided:**
 - The initial data shared by the client consisted of screenshots, which I have included in this repository as `Base Data Shared by Client`.
 - These screenshots show shifts provided by each physician at each hospital, broken down month by month.
@@ -23,10 +27,6 @@ The link below directs to the published Google Sheet containing the analyzed dat
    - Another sheet in the Google document details shifts for each physician, broken down by month.
    - An **average-based calculation** identifies whether a physician is surpassing the **average shift threshold** or not.
    - **Slicers, Pivots and filters** enable micro-level insights, making it easy to view detailed data by month, hospital, or physician.
-
-### **Screenshots:**
-![image](https://github.com/user-attachments/assets/caf1e234-432a-4d74-a787-6b0149394ae5)
-![image](https://github.com/user-attachments/assets/8422e4d6-a018-4624-af28-a859318d7456)
 
 
 ### **Skills Demonstrated:**
